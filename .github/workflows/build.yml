@@ -1,0 +1,17 @@
+Push
+
+↓
+
+Checkout source
+
+↓
+
+Setup Java
+
+↓
+
+Cache Maven
+
+↓
+
+mvn clean package
