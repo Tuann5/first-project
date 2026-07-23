@@ -16,6 +16,6 @@ public class HelloServiceTest {
         String result = service.getMessage();
 
         // Assert
-        assertEquals("Hello GitHub Actions", result);
+        assertEquals("Hello GitHub Actions clgt", result);
     }
 }
