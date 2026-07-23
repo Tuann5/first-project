@@ -14,5 +14,7 @@ jobs:
         with:
           java-version: '21'
           distribution: 'temurin'
+      - name: Java check
+        run: java -vesion
       - name: Build with Maven
         run: mvn clean package
